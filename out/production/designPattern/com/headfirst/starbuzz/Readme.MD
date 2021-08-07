@@ -1,0 +1,1 @@
+We have implemented **Decorator pattern** for a coffee startup
